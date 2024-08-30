@@ -1,0 +1,13 @@
+{
+  "appId": "ch.ergon.guf.capacitor.fullscreendetection",
+  "appName": "BugReportFullScreenDetection",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    },
+    "Keyboard": {
+      "resizeOnFullScreen": true
+    }
+  }
+}
